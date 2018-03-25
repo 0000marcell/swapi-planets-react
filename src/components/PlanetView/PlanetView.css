@@ -1,0 +1,25 @@
+.planet-view{
+  min-width: 350px;
+  min-height: 280px;
+  border: 3px solid #;
+  border: 3px solid #6200EA;
+  margin: 20px;
+}
+
+.planet-view .planet-view-name{
+  background-color: #6200EA;
+  margin: 0;
+  padding: 20px;
+}
+
+.planet-view .planet-view-name h1{
+  margin: 0;
+}
+
+.planet-view .planet-view-body{
+  padding: 20px;
+}
+
+.planet-view-loading{
+}
+

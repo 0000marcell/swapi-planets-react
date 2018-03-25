@@ -1,0 +1,27 @@
+{
+  "name": "swapi-planets-react",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://0000marcell.github.io/swapi-planets-react",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "axios-mock-adapter": "^1.14.1",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "gh-pages": "^1.1.0",
+    "sinon": "^4.4.8"
+  }
+}
