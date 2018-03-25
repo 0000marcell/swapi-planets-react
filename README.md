@@ -1,6 +1,13 @@
-#SWAPI-PLANETS-REACT
+# SWAPI-PLANETS-REACT
 
-local build:
+how to install
+```
+git clone https://github.com/0000marcell/swapi-planets-react.git
+cd swapi-planets-react
+npm install
+```
+
+local server:
 ```
 npm run start
 ```
